@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Python"
+		},
+		{
+			"path": "../c_class"
+		},
+		{
+			"path": "../../vs코드(html,css,java)"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "vs코드(html,css,java)"
+	}
+}
